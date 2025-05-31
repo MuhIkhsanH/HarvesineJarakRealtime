@@ -3,7 +3,7 @@
 
 
 ## Apa Fungsinya?
-* Anda bisa mengetahui jarak secara realtime bahkan saat offline
+* Anda bisa mengetahui jarak secara realtime bahkan saat offline (Memakai Termux)
 * Anda bisa menambahkan database lokasi yang akan menjadi target
 * Menggunakan rumus jarak Harvesine dengan longtitude dan latitude yang menghasilkan output jarak dari lokasi saat ini sampai lokasi target
 
